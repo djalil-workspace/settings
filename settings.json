@@ -9,7 +9,7 @@
     "workbench.tree.indent": 14,
 
     // Установить тему по дефолту
-    "workbench.colorTheme": "Kanagawa",
+    "workbench.colorTheme": "Kanagawa Wave",
 
     // Отсчет строчки относительно текущего курсора
     // "editor.lineNumbers": "relative",
@@ -65,7 +65,7 @@
     "workbench.activityBar.location": "hidden",
 
     // Установить дефолтный размер для редактора
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
 
     // Настройка курсора
     "editor.multiCursorModifier": "ctrlCmd",
@@ -125,11 +125,13 @@
     // Отключает подсветку активной строки
     "editor.renderLineHighlight": "none",
 
+    // Автосохранение файлов через короткую паузу после редактирования
+    // "files.autoSave": "afterDelay",
+
     // Отключает автообновления VS Code / VSCodium
     "update.mode": "none",
 
     // Отключает всплывающие предложения установить расширения
     "extensions.ignoreRecommendations": true,
     "workbench.sideBar.location": "right",
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
 }
